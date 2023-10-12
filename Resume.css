@@ -1,0 +1,43 @@
+.Name {
+  text-align: center;
+}
+
+.Contact {
+  font-size: 17px;
+  text-align: center;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  font-weight: 100px;
+  padding: 0px;
+}
+
+html {
+  background-color: rgb(125, 205, 252);
+}
+
+.Objective {
+  font-size: 17px;
+}
+
+.Summary {
+  font-size: 17px;
+}
+
+.Education {
+  font-size: 17px;
+}
+
+.WorkExp {
+  font-size: 17px;
+}
+
+.Languages {
+  font-size: 17px;
+}
+
+.Skills {
+  font-size: 17px;
+}
